@@ -70,6 +70,8 @@ git push - u origin master
 - 프로젝트 생성
 
 # To do list
+- [x] 조회수 추가하기
+- [x] About: 나를 설명하는 부분 구체화
 - [ ] About: CV 양식 받아서 작성한 후, github에 업로드하기
 - [ ] About: 숫자로 나를 표현할 수 있는 부분 생각해서 추가하기
 - [ ] Research: 노트북 상에서 이미지가 너무 큼. 양 사이드에 border 사이즈 키우기
